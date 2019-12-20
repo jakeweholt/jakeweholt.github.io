@@ -9,7 +9,7 @@ name: Rap Refactor
 description: Code rules everything around me.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.github.com/jakeweholt/jakeweholt.github.io/blob/master/images/mic_logo.png
+avatar: images/mic_logo.png
 
 #
 # Flags below are optional
