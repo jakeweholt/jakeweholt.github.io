@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+```
+From standin' on the corners boppin'
+To drivin' some of the hottest cars New York has ever seen
+For droppin' some of the hottest verses rap has ever heard
+From the dope spot, with the smoke Glock
+Fleein' the murder scene, you know me well
+```
 
-### More Information
+### Don't contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[2chainz@whitehouse.gov](mailto:2chainz@whitehouse.gov)
