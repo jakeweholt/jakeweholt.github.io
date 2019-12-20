@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-```
-
-```
-
 {% highlight java %}
 /*
 From standin' on the corners boppin'
