@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money -> Problems++
+title: First Light of the Day
 ---
 
 <script src="https://gist.github.com/jakeweholt/739f968411f436d272b63ef029cb2c6d.js"></script>
